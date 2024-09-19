@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Accessibility;Qt;Utility;
+Exec=AppleSAWS
+Name=AppleSAWS
+Name[zh_CN]=AppleSAWS
+Icon=AppleSAWS
+StartupNotify=false
+Terminal=false
+Type=Application
+GenericName=AppleSAWS
+Version=1.0

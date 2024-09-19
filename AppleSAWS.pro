@@ -169,3 +169,11 @@ FORMS += \
 
 RESOURCES += \
     src/resource/resources.qrc
+
+target.path = $$PREFIX/bin
+desktop.files = AppleSAWS.desktop
+desktop.path = $$PREFIX/share/applications/
+icons.path = $$PREFIX/share/icons/hicolor/apps/
+icons.files = AppleSAWS.png
+
+INSTALLS += target desktop icons
